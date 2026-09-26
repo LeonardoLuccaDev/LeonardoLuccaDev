@@ -54,30 +54,26 @@ Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem** e **Slamly
 <details>
 <summary><b>Ver a árvore de skills completa</b></summary>
 <br>
-<table align="center">
-  <tr><td><b>Frontend</b></td><td>React, Next.js, TypeScript, Tailwind CSS, Framer Motion</td></tr>
-  <tr><td><b>Mobile</b></td><td>React Native, Expo, push notifications, deep links, geolocalização</td></tr>
-  <tr><td><b>Backend</b></td><td>Node.js, NestJS, Express, APIs REST, WebSockets, Prisma, TypeORM</td></tr>
-  <tr><td><b>Dados & automação</b></td><td>PostgreSQL, Redis, Python, scraping</td></tr>
-  <tr><td><b>DevOps & infra</b></td><td>Docker, GitHub Actions, Linux, Railway, Magalu Cloud, Dokploy</td></tr>
-  <tr><td><b>Qualidade & docs</b></td><td>Jest, Vitest, Swagger, Insomnia</td></tr>
-</table>
+<p align="center">
+  <img src="assets/skills/sys01.svg" width="49%" alt="SYS.01 FRONTEND: React, Next.js, TypeScript, Tailwind CSS, Framer Motion" />
+  <img src="assets/skills/sys02.svg" width="49%" alt="SYS.02 MOBILE: React Native, Expo, Push, Deep links, Geolocalização" />
+  <img src="assets/skills/sys03.svg" width="49%" alt="SYS.03 BACKEND: Node.js, NestJS, Express, APIs REST, WebSockets, Prisma, TypeORM" />
+  <img src="assets/skills/sys04.svg" width="49%" alt="SYS.04 DADOS &amp; AUTOMAÇÃO: PostgreSQL, Redis, Python, Scraping" />
+  <img src="assets/skills/sys05.svg" width="49%" alt="SYS.05 DEVOPS &amp; INFRA: Docker, GitHub Actions, Linux, Railway, Magalu Cloud, Dokploy" />
+  <img src="assets/skills/sys06.svg" width="49%" alt="SYS.06 QUALIDADE &amp; DOCS: Jest, Vitest, Swagger, Insomnia" />
+</p>
 </details>
 
 ## 🏆 Achievements
 
-<table align="center">
-  <tr>
-    <td align="center"><code>&lt;/&gt;</code> <b>Full Stack</b><br><sub>5 anos entre web e mobile</sub></td>
-    <td align="center"><code>PY</code> <b>Mestre da automação</b><br><sub>~30 automações em produção</sub></td>
-    <td align="center"><code>200H</code> <b>Guardião do tempo</b><br><sub>~200 h/mês devolvidas ao time</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><code>ENG</code> <b>Engenheiro formado</b><br><sub>Eng. da Computação · UNISAL</sub></td>
-    <td align="center"><code>x6</code> <b>Ship it</b><br><sub>6 quests em produção</sub></td>
-    <td align="center">🔒 <b>Global scale</b><br><sub>em desenvolvimento</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/achievements/a01.svg" width="32.5%" alt="FULL STACK: 5 anos entre web e mobile" />
+  <img src="assets/achievements/a02.svg" width="32.5%" alt="MESTRE DA AUTOMAÇÃO: ~30 automações Python em produção" />
+  <img src="assets/achievements/a03.svg" width="32.5%" alt="GUARDIÃO DO TEMPO: ~200 h/mês devolvidas ao time" />
+  <img src="assets/achievements/a04.svg" width="32.5%" alt="ENGENHEIRO FORMADO: Eng. da Computação, UNISAL 2022" />
+  <img src="assets/achievements/a05.svg" width="32.5%" alt="SHIP IT: 6 quests entregues em produção" />
+  <img src="assets/achievements/a06.svg" width="32.5%" alt="GLOBAL SCALE: Primeiro produto internacional (em desenvolvimento)" />
+</p>
 
 </div>
 
