@@ -37,7 +37,7 @@ Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem**, **Lomiens
 | 🎾 | **[Slamly](https://slamly.com.br/)** · *fundador* | App para esportes de raquete com ~200 usuários: geolocalização, chat em tempo real, push e deep links de indicação | React Native · Expo · NestJS · PostgreSQL · Redis |
 | 💳 | **[Retorne.app](https://retorne.app/)** · *SaaS* | CRM, fidelização e campanhas para ~200 estabelecimentos, integrado com Open Delivery, Mercado Pago e SendPulse | React · TypeScript · NestJS · PostgreSQL |
 | 🏙️ | **CidadeTem** | Gestão turística para cidades pequenas. A versão anterior passou de 500 usuários | React · NestJS · TypeORM · PostgreSQL |
-| 🏨 | **[Lomiens](https://lomiens.com/)** | Gestão hoteleira, com refatoração completa de ~20 telas e testes unitários | React · TypeScript · NestJS · TypeORM · PostgreSQL |
+| 🏨 | **[Lomiens](https://lomiens.com/)** | Gestão hoteleira | React · TypeScript · NestJS · TypeORM · PostgreSQL |
 | 🏭 | **Gerdau Summit** | ~30 automações Python (scraping, APIs, e-mail) que economizam ~200 h/mês, além de sistemas internos web | Python · React · Express · Prisma · PostgreSQL |
 | 🥊 | **[jmuaythai](https://jmuaythai.vercel.app/)** · *autoral* | Plataforma para academia de muay thai, o projeto que deu origem ao mascote da marca | React · TypeScript |
 
