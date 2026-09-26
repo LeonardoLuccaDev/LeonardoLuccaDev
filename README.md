@@ -32,74 +32,18 @@ Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem** e **Slamly
 
 ## ⚔️ Quest log
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/badges/q01.svg" alt="Q.01 ESPORTES" />
-      <h3><a href="https://slamly.com.br/">Slamly</a></h3>
-      <p>App de comunidade para esportes de raquete.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/badges/q02.svg" alt="Q.02 SAAS · CRM" />
-      <h3><a href="https://retorne.app/">Retorne.app</a></h3>
-      <p>SaaS de CRM, fidelização e campanhas para estabelecimentos de alimentação e beleza.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/badges/q03.svg" alt="Q.03 TURISMO" />
-      <h3><a href="https://www.cidadetem.tur.br/">CidadeTem</a></h3>
-      <p>Plataforma de gestão turística para cidades de pequeno porte.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/badges/q04.svg" alt="Q.04 HOTELARIA" />
-      <h3><a href="https://lomiens.com/">Lomiens</a></h3>
-      <p>Sistema de gestão hoteleira.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/badges/q05.svg" alt="Q.05 INDÚSTRIA" />
-      <h3>Gerdau Summit</h3>
-      <p>Indústria de aços fundidos e forjados do grupo Gerdau.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/badges/q06.svg" alt="Q.06 AUTORAL" />
-      <h3><a href="https://jmuaythai.vercel.app/">jmuaythai</a></h3>
-      <p>Plataforma web para academia de muay thai.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://slamly.com.br/"><img src="assets/quests/q01.svg" width="49%" alt="Q.01 Slamly: App de comunidade para esportes de raquete." /></a>
+  <a href="https://retorne.app/"><img src="assets/quests/q02.svg" width="49%" alt="Q.02 Retorne.app: SaaS de CRM, fidelização e campanhas para estabelecimentos de alimentação e beleza." /></a>
+  <a href="https://www.cidadetem.tur.br/"><img src="assets/quests/q03.svg" width="49%" alt="Q.03 CidadeTem: Plataforma de gestão turística para cidades de pequeno porte." /></a>
+  <a href="https://lomiens.com/"><img src="assets/quests/q04.svg" width="49%" alt="Q.04 Lomiens: Sistema de gestão hoteleira." /></a>
+  <img src="assets/quests/q05.svg" width="49%" alt="Q.05 Gerdau Summit: Indústria de aços fundidos e forjados do grupo Gerdau." />
+  <a href="https://jmuaythai.vercel.app/"><img src="assets/quests/q06.svg" width="49%" alt="Q.06 jmuaythai: Plataforma web para academia de muay thai." /></a>
+</p>
 
 ## 📈 Level up journey
 
-<table>
-  <tr>
-    <td><img src="assets/badges/lv40.svg" alt="LV.40" /></td>
-    <td><b>Desenvolvedor Autônomo</b><br><sub>CidadeTem · Slamly</sub></td>
-    <td><code>2026 — hoje</code></td>
-  </tr>
-  <tr>
-    <td><img src="assets/badges/lv30.svg" alt="LV.30" /></td>
-    <td><b>Desenvolvedor Full Stack</b><br><sub>Lomiens</sub></td>
-    <td><code>mar/2026 — set/2026</code></td>
-  </tr>
-  <tr>
-    <td><img src="assets/badges/lv25.svg" alt="LV.25" /></td>
-    <td><b>Desenvolvedor Full Stack</b><br><sub>Retorne.app</sub></td>
-    <td><code>mar/2025 — mar/2026</code></td>
-  </tr>
-  <tr>
-    <td><img src="assets/badges/lv10.svg" alt="LV.10" /></td>
-    <td><b>Desenvolvedor de Sistemas</b><br><sub>Gerdau Summit</sub></td>
-    <td><code>out/2022 — jan/2025</code></td>
-  </tr>
-  <tr>
-    <td><img src="assets/badges/lv01.svg" alt="LV.01" /></td>
-    <td><b>Estágio: início da jornada</b><br><sub>Gerdau Summit</sub></td>
-    <td><code>jul/2021 — set/2022</code></td>
-  </tr>
-</table>
+<img src="assets/journey.svg" width="100%" alt="Level up journey: LV.40 Autônomo, LV.30 Lomiens, LV.25 Retorne.app, LV.10 e LV.01 Gerdau Summit" />
 
 <div align="center">
 
