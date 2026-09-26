@@ -76,13 +76,6 @@ Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem** e **Slamly
 | `</>` **Full Stack**<br><sub>5 anos entre web e mobile</sub> | `PY` **Mestre da automação**<br><sub>~30 automações em produção</sub> | `200H` **Guardião do tempo**<br><sub>~200 h/mês devolvidas ao time</sub> |
 | `ENG` **Engenheiro formado**<br><sub>Eng. da Computação · UNISAL</sub> | `x6` **Ship it**<br><sub>6 quests em produção</sub> | 🔒 **Global scale**<br><sub>em desenvolvimento</sub> |
 
-## 📊 Status do player
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonardoLuccaDev&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeonardoLuccaDev&theme=tokyonight" />
-</div>
-
 ---
 
 <div align="center">
