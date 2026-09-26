@@ -44,7 +44,7 @@ Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem** e **Slamly
 ## 📈 Level up journey
 
 ```diff
-+ LV.40  Desenvolvedor Autônomo       · CidadeTem · Lomiens · Slamly   2026 — hoje
++ LV.40  Desenvolvedor Autônomo       · CidadeTem · Slamly             2026 — hoje
 + LV.25  Desenvolvedor Full Stack     · Retorne.app                    mar/2025 — mar/2026
 + LV.10  Desenvolvedor de Sistemas    · Gerdau Summit                  out/2022 — jan/2025
 + LV.01  Estágio: início da jornada   · Gerdau Summit                  jul/2021 — set/2022
