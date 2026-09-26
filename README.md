@@ -51,30 +51,41 @@ Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem** e **Slamly
 + LV.01  Estágio: início da jornada   · Gerdau Summit                  jul/2021 — set/2022
 ```
 
+<div align="center">
+
 ## 🛠️ Sistemas e técnicas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,express,prisma,postgres,redis,python,docker,githubactions,jest,vitest,linux&theme=dark&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,express,prisma,postgres,redis,python,docker,githubactions,jest,vitest,linux&theme=dark&perline=8" />
 
 <details>
 <summary><b>Ver a árvore de skills completa</b></summary>
-
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion
-- **Mobile:** React Native, Expo, push notifications, deep links, geolocalização
-- **Backend:** Node.js, NestJS, Express, APIs REST, WebSockets, Prisma, TypeORM
-- **Dados & automação:** PostgreSQL, Redis, Python, scraping
-- **DevOps & infra:** Docker, GitHub Actions, Linux, Railway, Magalu Cloud, Dokploy
-- **Qualidade & docs:** Jest, Vitest, Swagger, Insomnia
-
+<br>
+<table align="center">
+  <tr><td><b>Frontend</b></td><td>React, Next.js, TypeScript, Tailwind CSS, Framer Motion</td></tr>
+  <tr><td><b>Mobile</b></td><td>React Native, Expo, push notifications, deep links, geolocalização</td></tr>
+  <tr><td><b>Backend</b></td><td>Node.js, NestJS, Express, APIs REST, WebSockets, Prisma, TypeORM</td></tr>
+  <tr><td><b>Dados & automação</b></td><td>PostgreSQL, Redis, Python, scraping</td></tr>
+  <tr><td><b>DevOps & infra</b></td><td>Docker, GitHub Actions, Linux, Railway, Magalu Cloud, Dokploy</td></tr>
+  <tr><td><b>Qualidade & docs</b></td><td>Jest, Vitest, Swagger, Insomnia</td></tr>
+</table>
 </details>
 
 ## 🏆 Achievements
 
-| | | |
-|:-:|:-:|:-:|
-| `</>` **Full Stack**<br><sub>5 anos entre web e mobile</sub> | `PY` **Mestre da automação**<br><sub>~30 automações em produção</sub> | `200H` **Guardião do tempo**<br><sub>~200 h/mês devolvidas ao time</sub> |
-| `ENG` **Engenheiro formado**<br><sub>Eng. da Computação · UNISAL</sub> | `x6` **Ship it**<br><sub>6 quests em produção</sub> | 🔒 **Global scale**<br><sub>em desenvolvimento</sub> |
+<table align="center">
+  <tr>
+    <td align="center"><code>&lt;/&gt;</code> <b>Full Stack</b><br><sub>5 anos entre web e mobile</sub></td>
+    <td align="center"><code>PY</code> <b>Mestre da automação</b><br><sub>~30 automações em produção</sub></td>
+    <td align="center"><code>200H</code> <b>Guardião do tempo</b><br><sub>~200 h/mês devolvidas ao time</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><code>ENG</code> <b>Engenheiro formado</b><br><sub>Eng. da Computação · UNISAL</sub></td>
+    <td align="center"><code>x6</code> <b>Ship it</b><br><sub>6 quests em produção</sub></td>
+    <td align="center">🔒 <b>Global scale</b><br><sub>em desenvolvimento</sub></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
