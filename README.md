@@ -24,7 +24,7 @@ leo@ledevmoraes:~$ ledevmoraes --init
 
 Sou o Leo, de Guaratinguetá/SP, engenheiro da computação (UNISAL, 2022) e dev full stack há 5 anos. Construo produtos web e mobile de ponta a ponta: levanto as regras de negócio, modelo os dados e faço APIs, interfaces, integrações e a sustentação depois do deploy.
 
-Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem**, **Lomiens** e **Slamly** (neste último, como dev fundador). Antes disso, ajudei a evoluir um SaaS de fidelização na **Retorne.app** e automatizei a operação industrial na **Gerdau Summit**.
+Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem** e **Slamly** (neste último, como dev fundador). Entre março e setembro de 2026 também atuei na **Lomiens**. Antes disso, ajudei a evoluir um SaaS de fidelização na **Retorne.app** e automatizei a operação industrial na **Gerdau Summit**.
 
 > ⚑ **Regra da guilda:** toda quest entregue sai com testes unitários (Jest · Vitest) e API documentada (Swagger).
 
@@ -37,7 +37,7 @@ Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem**, **Lomiens
 | 🎾 | **[Slamly](https://slamly.com.br/)** · *fundador* | App para esportes de raquete com ~200 usuários: geolocalização, chat em tempo real, push e deep links de indicação | React Native · Expo · NestJS · PostgreSQL · Redis |
 | 💳 | **[Retorne.app](https://retorne.app/)** · *SaaS* | CRM, fidelização e campanhas para ~200 estabelecimentos, integrado com Open Delivery, Mercado Pago e SendPulse | React · TypeScript · NestJS · PostgreSQL |
 | 🏙️ | **CidadeTem** | Gestão turística para cidades pequenas. A versão anterior passou de 500 usuários | React · NestJS · TypeORM · PostgreSQL |
-| 🏨 | **[Lomiens](https://lomiens.com/)** | Gestão hoteleira | React · TypeScript · NestJS · TypeORM · PostgreSQL |
+| 🏨 | **[Lomiens](https://lomiens.com/)** · *mar–set/2026* | Gestão hoteleira | React · TypeScript · NestJS · TypeORM · PostgreSQL |
 | 🏭 | **Gerdau Summit** | ~30 automações Python (scraping, APIs, e-mail) que economizam ~200 h/mês, além de sistemas internos web | Python · React · Express · Prisma · PostgreSQL |
 | 🥊 | **[jmuaythai](https://jmuaythai.vercel.app/)** · *autoral* | Plataforma para academia de muay thai, o projeto que deu origem ao mascote da marca | React · TypeScript |
 
