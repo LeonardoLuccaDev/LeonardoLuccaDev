@@ -48,7 +48,7 @@ Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem** e **Slamly
   <tr>
     <td width="50%" valign="top">
       <img src="assets/badges/q03.svg" alt="Q.03 TURISMO" />
-      <h3>CidadeTem</h3>
+      <h3><a href="https://www.cidadetem.tur.br/">CidadeTem</a></h3>
       <p>Plataforma de gestão turística para cidades de pequeno porte.</p>
     </td>
     <td width="50%" valign="top">
