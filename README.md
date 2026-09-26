@@ -26,7 +26,7 @@ Sou o Leo, de Guaratinguetá/SP, engenheiro da computação (UNISAL, 2022) e dev
 
 Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem** e **Slamly** (neste último, como dev fundador). Entre março e setembro de 2026 também atuei na **Lomiens**. Antes disso, ajudei a evoluir um SaaS de fidelização na **Retorne.app** e automatizei a operação industrial na **Gerdau Summit**.
 
-> ⚑ **Regra da guilda:** toda quest entregue sai com testes unitários (Jest · Vitest) e API documentada (Swagger).
+> ⚑ **Regra da guilda:** toda quest é entregue com documentação, manual de usuário, varreduras de segurança usando OWASP Top 10 e ASVS e testes unitários.
 
 🎯 **Disponível** para vagas full stack (remoto · CLT ou PJ) e projetos freelance de web, mobile e automação.
 
