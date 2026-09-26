@@ -32,24 +32,80 @@ Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem** e **Slamly
 
 ## ⚔️ Quest log
 
-| | Quest | O que é | Stack |
-|:-:|---|---|---|
-| 🎾 | **[Slamly](https://slamly.com.br/)** · *fundador* | App para esportes de raquete com ~200 usuários: geolocalização, chat em tempo real, push e deep links de indicação | React Native · Expo · NestJS · PostgreSQL · Redis |
-| 💳 | **[Retorne.app](https://retorne.app/)** · *SaaS* | CRM, fidelização e campanhas para ~200 estabelecimentos, integrado com Open Delivery, Mercado Pago e SendPulse | React · TypeScript · NestJS · PostgreSQL |
-| 🏙️ | **CidadeTem** | Gestão turística para cidades pequenas. A versão anterior passou de 500 usuários | React · NestJS · TypeORM · PostgreSQL |
-| 🏨 | **[Lomiens](https://lomiens.com/)** | Gestão hoteleira | React · TypeScript · NestJS · TypeORM · PostgreSQL |
-| 🏭 | **Gerdau Summit** | ~30 automações Python (scraping, APIs, e-mail) que economizam ~200 h/mês, além de sistemas internos web | Python · React · Express · Prisma · PostgreSQL |
-| 🥊 | **[jmuaythai](https://jmuaythai.vercel.app/)** · *autoral* | Plataforma para academia de muay thai, o projeto que deu origem ao mascote da marca | React · TypeScript |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Q.01-FUNDADOR-39FF14?style=flat-square&labelColor=0A0F1E" alt="Q.01 FUNDADOR" />
+      <h3><a href="https://slamly.com.br/">Slamly</a></h3>
+      <p>App para esportes de raquete com ~200 usuários: geolocalização, chat em tempo real, push e deep links de indicação.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Redis</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Q.02-SAAS%20%C2%B7%20CRM-39FF14?style=flat-square&labelColor=0A0F1E" alt="Q.02 SAAS · CRM" />
+      <h3><a href="https://retorne.app/">Retorne.app</a></h3>
+      <p>CRM, fidelização e campanhas para ~200 estabelecimentos, integrado com Open Delivery, Mercado Pago e SendPulse.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>NestJS</code> <code>PostgreSQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Q.03-%2B500%20USU%C3%81RIOS-39FF14?style=flat-square&labelColor=0A0F1E" alt="Q.03 +500 USUÁRIOS" />
+      <h3>CidadeTem</h3>
+      <p>Gestão turística para cidades pequenas. A versão anterior passou de 500 usuários.</p>
+      <p><code>React</code> <code>NestJS</code> <code>TypeORM</code> <code>PostgreSQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Q.04-HOTELARIA-39FF14?style=flat-square&labelColor=0A0F1E" alt="Q.04 HOTELARIA" />
+      <h3><a href="https://lomiens.com/">Lomiens</a></h3>
+      <p>Gestão hoteleira.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>NestJS</code> <code>TypeORM</code> <code>PostgreSQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Q.05-~200H/M%C3%8AS-39FF14?style=flat-square&labelColor=0A0F1E" alt="Q.05 ~200H/MÊS" />
+      <h3>Gerdau Summit</h3>
+      <p>~30 automações Python (scraping, APIs, e-mail) que economizam ~200 h/mês, além de sistemas internos web.</p>
+      <p><code>Python</code> <code>React</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Q.06-AUTORAL-39FF14?style=flat-square&labelColor=0A0F1E" alt="Q.06 AUTORAL" />
+      <h3><a href="https://jmuaythai.vercel.app/">jmuaythai</a></h3>
+      <p>Plataforma para academia de muay thai, o projeto que deu origem ao mascote da marca.</p>
+      <p><code>React</code> <code>TypeScript</code></p>
+    </td>
+  </tr>
+</table>
 
 ## 📈 Level up journey
 
-```diff
-+ LV.40  Desenvolvedor Autônomo       · CidadeTem · Slamly             2026 — hoje
-+ LV.30  Desenvolvedor Full Stack     · Lomiens                        mar/2026 — set/2026
-+ LV.25  Desenvolvedor Full Stack     · Retorne.app                    mar/2025 — mar/2026
-+ LV.10  Desenvolvedor de Sistemas    · Gerdau Summit                  out/2022 — jan/2025
-+ LV.01  Estágio: início da jornada   · Gerdau Summit                  jul/2021 — set/2022
-```
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/LV-40-39FF14?style=for-the-badge&labelColor=0A0F1E" alt="LV.40" /></td>
+    <td><b>Desenvolvedor Autônomo</b><br><sub>CidadeTem · Slamly</sub></td>
+    <td><code>2026 — hoje</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/LV-30-39FF14?style=for-the-badge&labelColor=0A0F1E" alt="LV.30" /></td>
+    <td><b>Desenvolvedor Full Stack</b><br><sub>Lomiens</sub></td>
+    <td><code>mar/2026 — set/2026</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/LV-25-39FF14?style=for-the-badge&labelColor=0A0F1E" alt="LV.25" /></td>
+    <td><b>Desenvolvedor Full Stack</b><br><sub>Retorne.app</sub></td>
+    <td><code>mar/2025 — mar/2026</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/LV-10-39FF14?style=for-the-badge&labelColor=0A0F1E" alt="LV.10" /></td>
+    <td><b>Desenvolvedor de Sistemas</b><br><sub>Gerdau Summit</sub></td>
+    <td><code>out/2022 — jan/2025</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/LV-01-39FF14?style=for-the-badge&labelColor=0A0F1E" alt="LV.01" /></td>
+    <td><b>Estágio: início da jornada</b><br><sub>Gerdau Summit</sub></td>
+    <td><code>jul/2021 — set/2022</code></td>
+  </tr>
+</table>
 
 <div align="center">
 
