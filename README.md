@@ -78,8 +78,8 @@ Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem**, **Lomiens
 ## 📊 Status do player
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoLuccaDev&show_icons=true&hide_border=true&bg_color=0A0F1E&title_color=39FF14&icon_color=39FF14&text_color=E1E4FA&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLuccaDev&layout=compact&hide_border=true&bg_color=0A0F1E&title_color=39FF14&text_color=E1E4FA&locale=pt-br" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonardoLuccaDev&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeonardoLuccaDev&theme=tokyonight" />
 </div>
 
 ---
