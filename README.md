@@ -43,7 +43,7 @@ Hoje atuo como **desenvolvedor autônomo** e sou **dev fundador** do **CidadeTem
 
 ## 🛠️ Sistemas e técnicas
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,express,prisma,postgres,redis,python,docker,githubactions,jest,vitest,linux&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,express,prisma,postgres,redis,python,docker,githubactions,jest,vitest&theme=dark&perline=8" />
 
 <details>
 <summary><b>Ver a árvore de skills completa</b></summary>
@@ -53,7 +53,7 @@ Hoje atuo como **desenvolvedor autônomo** e sou **dev fundador** do **CidadeTem
   <img src="assets/skills/sys02.svg" width="49%" alt="SYS.02 MOBILE: React Native, Expo, Push, Deep links, Geolocalização" />
   <img src="assets/skills/sys03.svg" width="49%" alt="SYS.03 BACKEND: Node.js, NestJS, Express, APIs REST, WebSockets, Prisma, TypeORM" />
   <img src="assets/skills/sys04.svg" width="49%" alt="SYS.04 DADOS &amp; AUTOMAÇÃO: PostgreSQL, Redis, Python, Scraping" />
-  <img src="assets/skills/sys05.svg" width="49%" alt="SYS.05 DEVOPS &amp; INFRA: Docker, GitHub Actions, Linux, Railway, Magalu Cloud, Dokploy" />
+  <img src="assets/skills/sys05.svg" width="49%" alt="SYS.05 DEVOPS &amp; INFRA: Docker, GitHub Actions, Railway, Magalu Cloud, Dokploy" />
   <img src="assets/skills/sys06.svg" width="49%" alt="SYS.06 QUALIDADE &amp; DOCS: Jest, Vitest, Swagger, Insomnia" />
 </p>
 </details>
@@ -66,7 +66,7 @@ Hoje atuo como **desenvolvedor autônomo** e sou **dev fundador** do **CidadeTem
   <img src="assets/achievements/a03.svg" width="32.5%" alt="GUARDIÃO DO TEMPO: ~200 h/mês devolvidas ao time" />
   <img src="assets/achievements/a04.svg" width="32.5%" alt="ENGENHEIRO FORMADO: Eng. da Computação, UNISAL 2022" />
   <img src="assets/achievements/a05.svg" width="32.5%" alt="SHIP IT: 6 quests entregues em produção" />
-  <img src="assets/achievements/a06.svg" width="32.5%" alt="GLOBAL SCALE: Primeiro produto internacional (em desenvolvimento)" />
+  <img src="assets/achievements/a06.svg" width="32.5%" alt="GLOBAL SCALE: Primeiro produto internacional (não realizado ainda)" />
 </p>
 
 </div>
