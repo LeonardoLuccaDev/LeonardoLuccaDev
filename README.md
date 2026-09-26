@@ -16,7 +16,7 @@
 
 ## 🧙 Character sheet
 
-Sou o Leo, de Guaratinguetá/SP, engenheiro da computação (UNISAL, 2022) e dev full stack há 5 anos. Construo produtos web e mobile de ponta a ponta: levanto as regras de negócio, modelo os dados e faço APIs, interfaces, integrações e a sustentação depois do deploy.
+Sou o Leo (**Leonardo Lucca de Moraes**), de Guaratinguetá/SP, engenheiro da computação (UNISAL, 2022) e dev full stack há 5 anos. Construo produtos web e mobile de ponta a ponta: levanto as regras de negócio, modelo os dados e faço APIs, interfaces, integrações e a sustentação depois do deploy.
 
 Hoje atuo como **desenvolvedor autônomo** e sou **dev fundador** do **CidadeTem** e do **Slamly**. Entre março e setembro de 2026 também atuei na **Lomiens**. Antes disso, ajudei a evoluir um SaaS de fidelização na **Retorne.app** e automatizei a operação industrial na **Gerdau Summit**.
 
@@ -44,6 +44,8 @@ Hoje atuo como **desenvolvedor autônomo** e sou **dev fundador** do **CidadeTem
 ## 🛠️ Sistemas e técnicas
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,express,prisma,postgres,redis,python,docker,githubactions,jest,vitest&theme=dark&perline=8" />
+
+<sub>TypeScript · React · Next.js · Tailwind CSS · React Native · Expo · Node.js · NestJS · Express · Prisma · TypeORM · PostgreSQL · Redis · Python · Docker · GitHub Actions · Jest · Vitest · Swagger</sub>
 
 <details>
 <summary><b>Ver a árvore de skills completa</b></summary>
