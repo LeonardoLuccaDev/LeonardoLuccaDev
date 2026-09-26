@@ -1,12 +1,14 @@
-<h1 align="center">Oi, eu sou o Leo 👋</h1>
-<p align="center">Dev Full Stack · React · React Native · Node · NestJS</p>
+## ⚔️ Ficha do Personagem
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-</p>
+**Classe:** Full Stack · **Nível:** 5 anos de XP · **Base:** Guaratinguetá/SP (remoto)
+**Especialidade:** construir produto pra comunidade real, do papo com o cliente ao deploy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoLuccaDev&show_icons=true&theme=tokyonight" />
-</p>
+| Atributo | Arsenal |
+|---|---|
+| 🗡️ Front | React · React Native · Expo · Tailwind |
+| 🛡️ Back | Node · NestJS · TypeORM · Prisma |
+| 📜 Dados | PostgreSQL · Redis · Python |
+
+### 🎯 Quests ativas
+- **Slamly** (CTO): app de tênis amador, ~200 jogadores
+- **CidadeTem**: gestão turística pra cidades pequenas
