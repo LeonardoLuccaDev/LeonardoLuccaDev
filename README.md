@@ -12,13 +12,7 @@
 
 </div>
 
-```bash
-leo@ledevmoraes:~$ ledevmoraes --init
-> carregando perfil ....... OK
-> stack: [react, react-native, node, nestjs, postgres]
-> xp: 5 anos · quests: 6 · automações python: 30+ · horas/mês economizadas: ~200
-✓ pronto para a próxima missão
-```
+<img src="assets/terminal.svg" width="100%" alt="leo@ledevmoraes:~$ ledevmoraes --init: carregando perfil OK; stack: react, react-native, node, nestjs, postgres; xp: 5 anos, 6 quests, 30+ automações python, ~200 horas/mês economizadas; pronto para a próxima missão" />
 
 ## 🧙 Character sheet
 
