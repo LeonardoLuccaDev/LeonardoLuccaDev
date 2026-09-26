@@ -24,7 +24,7 @@ leo@ledevmoraes:~$ ledevmoraes --init
 
 Sou o Leo, de Guaratinguetá/SP, engenheiro da computação (UNISAL, 2022) e dev full stack há 5 anos. Construo produtos web e mobile de ponta a ponta: levanto as regras de negócio, modelo os dados e faço APIs, interfaces, integrações e a sustentação depois do deploy.
 
-Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem** e **Slamly** (neste último, como dev fundador). Entre março e setembro de 2026 também atuei na **Lomiens**. Antes disso, ajudei a evoluir um SaaS de fidelização na **Retorne.app** e automatizei a operação industrial na **Gerdau Summit**.
+Hoje atuo como **desenvolvedor autônomo** e sou **dev fundador** do **CidadeTem** e do **Slamly**. Entre março e setembro de 2026 também atuei na **Lomiens**. Antes disso, ajudei a evoluir um SaaS de fidelização na **Retorne.app** e automatizei a operação industrial na **Gerdau Summit**.
 
 > ⚑ **Regra da guilda:** toda quest é entregue com documentação, manual de usuário, varreduras de segurança usando OWASP Top 10 e ASVS e testes unitários.
 
@@ -43,7 +43,7 @@ Hoje atuo como **desenvolvedor autônomo** à frente de **CidadeTem** e **Slamly
 
 ## 📈 Level up journey
 
-<img src="assets/journey.svg" width="100%" alt="Level up journey: LV.40 Autônomo, LV.30 Lomiens, LV.25 Retorne.app, LV.10 e LV.01 Gerdau Summit" />
+<img src="assets/journey.svg" width="100%" alt="Level up journey: LV.40 Autônomo (dev fundador do CidadeTem e do Slamly), LV.30 Lomiens, LV.25 Retorne.app, LV.10 e LV.01 Gerdau Summit" />
 
 <div align="center">
 
