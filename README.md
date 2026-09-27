@@ -29,7 +29,7 @@ Hoje atuo como **desenvolvedor autônomo** e sou **dev fundador** do **CidadeTem
 <p align="center">
   <a href="https://slamly.com.br/"><img src="assets/quests/q01.svg" width="49%" alt="Q.01 Slamly: App de comunidade para esportes de raquete." /></a>
   <a href="https://retorne.app/"><img src="assets/quests/q02.svg" width="49%" alt="Q.02 Retorne.app: SaaS de CRM, fidelização e campanhas para estabelecimentos de alimentação e beleza." /></a>
-  <a href="https://www.cidadetem.tur.br/"><img src="assets/quests/q03.svg" width="49%" alt="Q.03 CidadeTem: Plataforma de gestão turística para cidades de pequeno porte." /></a>
+  <img src="assets/quests/q03.svg" width="49%" alt="Q.03 CidadeTem: Plataforma de gestão turística para cidades de pequeno porte." />
   <a href="https://lomiens.com/"><img src="assets/quests/q04.svg" width="49%" alt="Q.04 Lomiens: Sistema de gestão hoteleira." /></a>
   <img src="assets/quests/q05.svg" width="49%" alt="Q.05 Gerdau Summit: Indústria de aços fundidos e forjados do grupo Gerdau." />
   <a href="https://jmuaythai.vercel.app/"><img src="assets/quests/q06.svg" width="49%" alt="Q.06 jmuaythai: Plataforma web para academia de muay thai." /></a>
